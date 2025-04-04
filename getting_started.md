@@ -1,7 +1,7 @@
 ### Installing django
 
 - Install django: `python3 -m pip install django`
-- Install virtual env: `ython3 -m venv venv`
+- Install virtual env: `python3 -m venv venv`
 - Activate the virtual environment: `source venv/bin/activate`
 - Install django: `pip install django`
 
